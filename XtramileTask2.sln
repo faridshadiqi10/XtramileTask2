@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XtramileTask2", "XtramileTask2\XtramileTask2.csproj", "{4F786D29-1FF7-4BE0-95EB-390270E55BD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XtramileUnitTest", "XtramileUnitTest\XtramileUnitTest.csproj", "{9C4CC680-DFBC-462D-983B-5DFE42C20698}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4F786D29-1FF7-4BE0-95EB-390270E55BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F786D29-1FF7-4BE0-95EB-390270E55BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F786D29-1FF7-4BE0-95EB-390270E55BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C4CC680-DFBC-462D-983B-5DFE42C20698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C4CC680-DFBC-462D-983B-5DFE42C20698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C4CC680-DFBC-462D-983B-5DFE42C20698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C4CC680-DFBC-462D-983B-5DFE42C20698}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
